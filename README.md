@@ -5,6 +5,6 @@ This is a clone of the much popular Snake Game. The game stars with a snake that
 
 ## Screenshots of the game
 
-<img src = "Demo/Screenshot from 2022-06-04 06-27-58.png">
-<img src = "Demo/Screenshot from 2022-06-04 06-27-14.png">
-<img src = "Demo/Screenshot from 2022-06-04 06-27-34.png">
+<img src = "Screenshot from 2022-06-04 06-27-58.png">
+<img src = "Screenshot from 2022-06-04 06-27-14.png">
+<img src = "Screenshot from 2022-06-04 06-27-34.png">
